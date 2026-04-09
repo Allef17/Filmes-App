@@ -1,72 +1,240 @@
 [
   {
     "name": "A Forja: O Poder da Transformação",
-    "link": "https://myembed.biz/filme/{$id}",
     "id": "tt26731216",
+    "link": "https://myembed.biz/filme/tt26731216",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTRjY2IzNjAtOTI2Yi00OGFkLTgzYTktNWY4NjFlZDZhZTkwXkEyXkFqcGc@._V1_.jpg",
     "category": "drama"
   },
   {
     "name": "Peaky Blinders: O Homem Imortal",
-    "link": "https://myembed.biz/filme/{$id}",
     "id": "tt15574124",
+    "link": "https://myembed.biz/filme/tt15574124",
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvGKlUGPnX9jetT8YZrfQbyNMb2P4IrDu8w&s",
     "category": "crime, drama"
   },
   {
     "name": "Destruição Final: O Último Refúgio",
-    "link": "https://myembed.biz/filme/{$id}",
     "id": "tt7737786",
+    "link": "https://myembed.biz/filme/tt7737786",
     "poster": "https://br.web.img2.acsta.net/pictures/20/10/19/22/23/2564835.jpg",
     "category": "ação, aventura"
   },
   {
     "name": "Destruição Final 2",
-    "link": "https://myembed.biz/filme/{$id}",
     "id": "tt14850054",
+    "link": "https://myembed.biz/filme/tt14850054",
     "poster": "https://ingresso-a.akamaihd.net/prd/img/movie/destruicao-final-2/c8eb27be-65de-4f31-861d-476962375f99.webp",
     "category": "ação, aventura"
   },
   {
-    "name": "Zootopia",
-    "link": "https://myembed.biz/filme/{$id}",
+    "name": "Zootopia: Essa Cidade é o Bicho",
     "id": "tt2948356",
+    "link": "https://myembed.biz/filme/tt2948356",
     "poster": "https://static.wikia.nocookie.net/dublagem/images/e/ea/Zootopia.jpg",
     "category": "animação"
   },
   {
     "name": "Zootopia 2",
-    "link": "https://myembed.biz/filme/{$id}",
     "id": "tt26443597",
+    "link": "https://myembed.biz/filme/tt26443597",
     "poster": "https://ingresso-a.akamaihd.net/prd/img/movie/zootopia-2/3d1848cc-3a3f-4a9d-bfea-62568e4d40f9.webp",
     "category": "animação"
   },
   {
     "name": "Tarzan",
-    "link": "https://myembed.biz/filme/{$id}",
     "id": "tt0120855",
+    "link": "https://myembed.biz/filme/tt0120855",
     "poster": "https://m.media-amazon.com/images/M/MV5BYmQyOGNmNzctMjc5OC00N2I0LTg0YTMtMGJhNTZlNzcxNzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "category": "animação, aventura"
   },
   {
     "name": "Tarzan e Jane",
-    "link": "https://myembed.biz/filme/{$id}",
     "id": "tt0313680",
+    "link": "https://myembed.biz/filme/tt0313680",
     "poster": "https://m.media-amazon.com/images/I/515VJ9WE0AL._AC_UF894,1000_QL80_.jpg",
     "category": "animação, aventura"
   },
   {
-    "name": "Tarzan 2",
-    "link": "https://myembed.biz/filme/{$id}",
+    "name": "Tarzan 2: A Lenda Começa",
     "id": "tt0437503",
+    "link": "https://myembed.biz/filme/tt0437503",
     "poster": "https://m.media-amazon.com/images/M/MV5BYmM0MzQzY2ItM2UxOC00ZmMwLWIwNTYtNDc5MGEzYmNjYWU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "category": "animação, aventura"
   },
   {
     "name": "Tarzan: A Evolução da Lenda",
-    "link": "https://myembed.biz/filme/{$id}",
     "id": "tt1705952",
+    "link": "https://myembed.biz/filme/tt1705952",
     "poster": "https://br.web.img2.acsta.net/pictures/13/12/30/17/00/149548.jpg",
     "category": "aventura, drama, família"
+  },
+  {
+    "name": "Meu Malvado Favorito 3",
+    "id": "tt3469046",
+    "link": "https://myembed.biz/filme/tt3469046",
+    "poster": "https://br.web.img2.acsta.net/pictures/17/03/14/20/37/126690.jpg",
+    "category": "animação"
+  },
+  {
+    "name": "Meu Malvado Favorito 2",
+    "id": "tt1690953",
+    "link": "https://myembed.biz/filme/tt1690953",
+    "poster": "https://www.papodecinema.com.br/wp-content/uploads/2013/07/20190402-8d6c1fbc282eba39315e1cea6d1abd26.webp",
+    "category": "animação"
+  },
+  {
+    "name": "Meu Malvado Favorito",
+    "id": "tt1323594",
+    "link": "https://myembed.biz/filme/tt1323594",
+    "poster": "https://br.web.img3.acsta.net/medias/nmedia/18/87/89/83/20028679.jpg",
+    "category": "animação"
+  },
+  {
+    "name": "Meu Malvado Favorito 4",
+    "id": "tt7510222",
+    "link": "https://myembed.biz/filme/tt7510222",
+    "poster": "https://br.web.img3.acsta.net/img/6c/71/6c71afa89fd8ed8999b3e04d8d794a0e.jpg",
+    "category": "animação"
+  },
+  {
+    "name": "A Empregada",
+    "id": "tt27543632",
+    "link": "https://myembed.biz/filme/tt27543632",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTM2ZGM3ZmYtY2YyNS00NzYxLWE3NjYtMGE0OWFhMjk4Y2I1XkEyXkFqcGc@._V1_.jpg",
+    "category": "suspense, drama"
+  },
+  {
+    "name": "Gigantes de Aço",
+    "id": "tt0433035",
+    "link": "https://myembed.biz/filme/tt0433035",
+    "poster": "https://play-lh.googleusercontent.com/N77PUO_MDFZ9Yc3pWPEklRn4Sy0MmeXu1Tge_B6qjMUoOBsdMDqSxNfcS7onkExyCrs",
+    "category": "ação, drama"
+  },
+  {
+    "name": "Karate Kid",
+    "id": "tt1155076",
+    "link": "https://myembed.biz/filme/tt1155076",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/00/The_Karate_Kid_2010.jpg/250px-The_Karate_Kid_2010.jpg",
+    "category": "ação, drama"
+  },
+  {
+    "name": "Desafiando Gigantes",
+    "id": "tt0805526",
+    "link": "https://myembed.biz/filme/tt0805526",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/a/aa/Facing_the_Giants.jpg",
+    "category": "drama"
+  },
+  {
+    "name": "O Atirador Fantasma",
+    "id": "tt5090828",
+    "link": "https://myembed.biz/filme/tt5090828",
+    "poster": "https://br.web.img3.acsta.net/pictures/16/07/29/15/34/308259.jpg",
+    "category": "ação, drama"
+  },
+  {
+    "name": "O Atirador: Legado",
+    "id": "tt3776288",
+    "link": "https://myembed.biz/filme/tt3776288",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTM5ODMzMzc3Ml5BMl5BanBnXkFtZTgwMTc1MDMzMjE@._V1_FMjpg_UX1000_.jpg",
+    "category": "ação, drama"
+  },
+  {
+    "name": "O Atirador: O Extermínio Final",
+    "id": "tt6349302",
+    "link": "https://myembed.biz/filme/tt6349302",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzliZGQ4ZmUtOTc1MS00NDlhLWEwNDMtNTQ3NTkyODRlZDZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "category": "ação, drama"
+  },
+  {
+    "name": "O Atirador: Missão Secreta",
+    "id": "tt21222434",
+    "link": "https://myembed.biz/filme/tt21222434",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWMzOGU1NDUtMTliMi00NjI1LTg2MDUtYjRhZDE4MzBlODkyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "category": "ação, suspense"
+  },
+  {
+    "name": "Sniper: No Nation",
+    "id": "tt39538786",
+    "link": "https://myembed.biz/filme/tt39538786",
+    "poster": "https://resizing.flixster.com/BzOIbH-4z25EMuYu37uOIx-gd1Y=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32643263_v_v12_ab.jpg",
+    "category": "ação"
+  },
+  {
+    "name": "Rio",
+    "id": "tt1436562",
+    "link": "https://myembed.biz/filme/tt1436562",
+    "poster": "https://static.wikia.nocookie.net/rio/images/6/66/Rio_Poster.jpg",
+    "category": "animação, aventura"
+  },
+  {
+    "name": "Rio 2",
+    "id": "tt2357291",
+    "link": "https://myembed.biz/filme/tt2357291",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgzMDczMDYzNl5BMl5BanBnXkFtZTgwMzk2MDIwMTE@._V1_FMjpg_UX1000_.jpg",
+    "category": "animação, aventura"
+  },
+  {
+    "name": "O Diabo no Banco dos Réus",
+    "id": "tt1615075",
+    "link": "https://myembed.biz/filme/tt1615075",
+    "poster": "https://cdn.awsli.com.br/1181/1181256/produto/55543320821aaf9568.jpg",
+    "category": "drama"
+  },
+  {
+    "name": "Ato Noturno",
+    "id": "tt35050890",
+    "link": "https://myembed.biz/filme/tt35050890",
+    "poster": "https://ingresso-a.akamaihd.net/prd/img/movie/ato-noturno/0418ed66-4e8c-4129-b35a-f236e2363c36.webp",
+    "category": "drama, romance"
+  },
+  {
+    "name": "Creed: Nascido para Lutar",
+    "id": "tt3076658",
+    "link": "https://myembed.biz/filme/tt3076658",
+    "poster": "https://br.web.img2.acsta.net/pictures/15/10/14/14/58/220036.jpg",
+    "category": "ação, drama"
+  },
+  {
+    "name": "Creed II",
+    "id": "tt6343314",
+    "link": "https://myembed.biz/filme/tt6343314",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/9/90/Creed_II_poster.png",
+    "category": "ação, drama"
+  },
+  {
+    "name": "Creed III",
+    "id": "tt11145118",
+    "link": "https://myembed.biz/filme/tt11145118",
+    "poster": "https://ingresso-a.akamaihd.net/prd/img/movie/creed-iii/53ce38a4-a3f5-4f80-84d0-ad7100713900.jpg",
+    "category": "ação, drama"
+  },
+  {
+    "name": "Debi e Loide: Dois Idiotas em Apuros",
+    "id": "tt0109686",
+    "link": "https://myembed.biz/filme/tt0109686",
+    "poster": "https://br.web.img3.acsta.net/c_310_420/pictures/210/542/21054207_20131030221640204.jpg",
+    "category": "comédia"
+  },
+  {
+    "name": "Debi e Loide 2",
+    "id": "tt2096672",
+    "link": "https://myembed.biz/filme/tt2096672",
+    "poster": "https://br.web.img3.acsta.net/c_310_420/pictures/14/10/23/13/15/276424.jpg",
+    "category": "comédia"
+  },
+  {
+    "name": "Os Croods",
+    "id": "tt0481499",
+    "link": "https://myembed.biz/filme/tt0481499",
+    "poster": "https://br.web.img3.acsta.net/medias/nmedia/18/90/90/53/20498802.jpg",
+    "category": "animação, aventura"
+  },
+  {
+    "name": "Os Croods 2: Uma Nova Era",
+    "id": "tt2850386",
+    "link": "https://myembed.biz/filme/tt2850386",
+    "poster": "https://ingresso-a.akamaihd.net/prd/img/movie/os-croods-2-uma-nova-era/0a54d330-cb63-43b2-808c-d971b0d7db27.jpg",
+    "category": "animação, aventura"
   }
 ]
