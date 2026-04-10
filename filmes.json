@@ -1,47 +1,57 @@
 [
-{"title":"A Forja: O Poder da Transformação","id":"tt26731216","genre":"Drama","image":"https://m.media-amazon.com/images/M/MV5BYTRjY2IzNjAtOTI2Yi00OGFkLTgzYTktNWY4NjFlZDZhZTkwXkEyXkFqcGc@._V1_.jpg","embed":"https://myembed.biz/filme/tt26731216"},
+  {"title":"A Forja: O Poder da Transformação","id":"tt26731216","embed":"https://myembed.biz/filme/tt26731216","genre":"Drama","image":"https://m.media-amazon.com/images/M/MV5BYTRjY2IzNjAtOTI2Yi00OGFkLTgzYTktNWY4NjFlZDZhZTkwXkEyXkFqcGc@._V1_.jpg"},
+  {"title":"Peaky Blinders: O Homem Imortal","id":"tt15574124","embed":"https://myembed.biz/filme/tt15574124","genre":"Crime, Drama","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvGKlUGPnX9jetT8YZrfQbyNMb2P4IrDu8w&s"},
+  {"title":"Destruição Final: O Último Refúgio","id":"tt7737786","embed":"https://myembed.biz/filme/tt7737786","genre":"Ação, Aventura","image":"https://br.web.img2.acsta.net/pictures/20/10/19/22/23/2564835.jpg"},
+  {"title":"Destruição Final 2","id":"tt14850054","embed":"https://myembed.biz/filme/tt14850054","genre":"Ação, Aventura","image":"https://ingresso-a.akamaihd.net/prd/img/movie/destruicao-final-2/c8eb27be-65de-4f31-861d-476962375f99.webp"},
+  {"title":"Zootopia","id":"tt2948356","embed":"https://myembed.biz/filme/tt2948356","genre":"Animação","image":"https://static.wikia.nocookie.net/dublagem/images/e/ea/Zootopia.jpg"},
+  {"title":"Zootopia 2","id":"tt26443597","embed":"https://myembed.biz/filme/tt26443597","genre":"Animação","image":"https://ingresso-a.akamaihd.net/prd/img/movie/zootopia-2/3d1848cc-3a3f-4a9d-bfea-62568e4d40f9.webp"},
 
-{"title":"Peaky Blinders: O Homem Imortal","id":"tt15574124","genre":"Crime, Drama","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvGKlUGPnX9jetT8YZrfQbyNMb2P4IrDu8w&s","embed":"https://myembed.biz/filme/tt15574124"},
+  {"title":"Tarzan","id":"tt0120855","embed":"https://myembed.biz/filme/tt0120855","genre":"Animação, Aventura","image":"https://m.media-amazon.com/images/M/MV5BYmQyOGNmNzctMjc5OC00N2I0LTg0YTMtMGJhNTZlNzcxNzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"},
+  {"title":"Tarzan e Jane","id":"tt0313680","embed":"https://myembed.biz/filme/tt0313680","genre":"Animação, Aventura","image":"https://m.media-amazon.com/images/I/515VJ9WE0AL._AC_UF894,1000_QL80_.jpg"},
+  {"title":"Tarzan 2: A Lenda Começa","id":"tt0437503","embed":"https://myembed.biz/filme/tt0437503","genre":"Animação, Aventura","image":"https://m.media-amazon.com/images/M/MV5BYmM0MzQzY2ItM2UxOC00ZmMwLWIwNTYtNDc5MGEzYmNjYWU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"},
+  {"title":"Tarzan: A Evolução da Lenda","id":"tt1705952","embed":"https://myembed.biz/filme/tt1705952","genre":"Aventura, Drama","image":"https://br.web.img2.acsta.net/pictures/13/12/30/17/00/149548.jpg"},
 
-{"title":"Destruição Final: O Último Refúgio","id":"tt7737786","genre":"Ação, Aventura","image":"https://br.web.img2.acsta.net/pictures/20/10/19/22/23/2564835.jpg","embed":"https://myembed.biz/filme/tt7737786"},
+  {"title":"Meu Malvado Favorito","id":"tt1323594","embed":"https://myembed.biz/filme/tt1323594","genre":"Animação","image":"https://br.web.img3.acsta.net/medias/nmedia/18/87/89/83/20028679.jpg"},
+  {"title":"Meu Malvado Favorito 2","id":"tt1690953","embed":"https://myembed.biz/filme/tt1690953","genre":"Animação","image":"https://www.papodecinema.com.br/wp-content/uploads/2013/07/20190402-8d6c1fbc282eba39315e1cea6d1abd26.webp"},
+  {"title":"Meu Malvado Favorito 3","id":"tt3469046","embed":"https://myembed.biz/filme/tt3469046","genre":"Animação","image":"https://br.web.img2.acsta.net/pictures/17/03/14/20/37/126690.jpg"},
+  {"title":"Meu Malvado Favorito 4","id":"tt7510222","embed":"https://myembed.biz/filme/tt7510222","genre":"Animação","image":"https://br.web.img3.acsta.net/img/6c/71/6c71afa89fd8ed8999b3e04d8d794a0e.jpg"},
 
-{"title":"Destruição Final 2","id":"tt14850054","genre":"Ação, Aventura","image":"https://ingresso-a.akamaihd.net/prd/img/movie/destruicao-final-2/c8eb27be-65de-4f31-861d-476962375f99.webp","embed":"https://myembed.biz/filme/tt14850054"},
+  {"title":"A Empregada","id":"tt27543632","embed":"https://myembed.biz/filme/tt27543632","genre":"Suspense, Drama","image":"https://m.media-amazon.com/images/M/MV5BNTM2ZGM3ZmYtY2YyNS00NzYxLWE3NjYtMGE0OWFhMjk4Y2I1XkEyXkFqcGc@._V1_.jpg"},
+  {"title":"Gigantes de Aço","id":"tt0433035","embed":"https://myembed.biz/filme/tt0433035","genre":"Ação, Drama","image":"https://play-lh.googleusercontent.com/N77PUO_MDFZ9Yc3pWPEklRn4Sy0MmeXu1Tge_B6qjMUoOBsdMDqSxNfcS7onkExyCrs"},
+  {"title":"Karate Kid","id":"tt1155076","embed":"https://myembed.biz/filme/tt1155076","genre":"Ação, Drama","image":"https://upload.wikimedia.org/wikipedia/pt/thumb/0/00/The_Karate_Kid_2010.jpg/250px-The_Karate_Kid_2010.jpg"},
+  {"title":"Desafiando Gigantes","id":"tt0805526","embed":"https://myembed.biz/filme/tt0805526","genre":"Drama","image":"https://upload.wikimedia.org/wikipedia/pt/a/aa/Facing_the_Giants.jpg"},
 
-{"title":"Zootopia: Essa Cidade é o Bicho","id":"tt2948356","genre":"Animação","image":"https://static.wikia.nocookie.net/dublagem/images/e/ea/Zootopia.jpg","embed":"https://myembed.biz/filme/tt2948356"},
+  {"title":"O Atirador Fantasma","id":"tt5090828","embed":"https://myembed.biz/filme/tt5090828","genre":"Ação, Drama","image":"https://br.web.img3.acsta.net/pictures/16/07/29/15/34/308259.jpg"},
+  {"title":"O Atirador: Legado","id":"tt3776288","embed":"https://myembed.biz/filme/tt3776288","genre":"Ação, Drama","image":"https://m.media-amazon.com/images/M/MV5BNTM5ODMzMzc3Ml5BMl5BanBnXkFtZTgwMTc1MDMzMjE@._V1_FMjpg_UX1000_.jpg"},
+  {"title":"O Atirador: O Extermínio Final","id":"tt6349302","embed":"https://myembed.biz/filme/tt6349302","genre":"Ação, Drama","image":"https://m.media-amazon.com/images/M/MV5BMzliZGQ4ZmUtOTc1MS00NDlhLWEwNDMtNTQ3NTkyODRlZDZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"},
+  {"title":"O Atirador: Missão Secreta","id":"tt21222434","embed":"https://myembed.biz/filme/tt21222434","genre":"Ação, Suspense","image":"https://m.media-amazon.com/images/M/MV5BNWMzOGU1NDUtMTliMi00NjI1LTg2MDUtYjRhZDE4MzBlODkyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"},
 
-{"title":"Zootopia 2","id":"tt26443597","genre":"Animação","image":"https://ingresso-a.akamaihd.net/prd/img/movie/zootopia-2/3d1848cc-3a3f-4a9d-bfea-62568e4d40f9.webp","embed":"https://myembed.biz/filme/tt26443597"},
+  {"title":"Rio","id":"tt1436562","embed":"https://myembed.biz/filme/tt1436562","genre":"Animação, Aventura","image":"https://static.wikia.nocookie.net/rio/images/6/66/Rio_Poster.jpg"},
+  {"title":"Rio 2","id":"tt2357291","embed":"https://myembed.biz/filme/tt2357291","genre":"Animação, Aventura","image":"https://m.media-amazon.com/images/M/MV5BMTgzMDczMDYzNl5BMl5BanBnXkFtZTgwMzk2MDIwMTE@._V1_FMjpg_UX1000_.jpg"},
 
-{"title":"Tarzan","id":"tt0120855","genre":"Animação, Aventura","image":"https://m.media-amazon.com/images/M/MV5BYmQyOGNmNzctMjc5OC00N2I0LTg0YTMtMGJhNTZlNzcxNzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg","embed":"https://myembed.biz/filme/tt0120855"},
+  {"title":"Creed","id":"tt3076658","embed":"https://myembed.biz/filme/tt3076658","genre":"Ação, Drama","image":"https://br.web.img2.acsta.net/pictures/15/10/14/14/58/220036.jpg"},
+  {"title":"Creed II","id":"tt6343314","embed":"https://myembed.biz/filme/tt6343314","genre":"Ação, Drama","image":"https://upload.wikimedia.org/wikipedia/pt/9/90/Creed_II_poster.png"},
+  {"title":"Creed III","id":"tt11145118","embed":"https://myembed.biz/filme/tt11145118","genre":"Ação, Drama","image":"https://ingresso-a.akamaihd.net/prd/img/movie/creed-iii/53ce38a4-a3f5-4f80-84d0-ad7100713900.jpg"},
 
-{"title":"Tarzan e Jane","id":"tt0313680","genre":"Animação, Aventura","image":"https://m.media-amazon.com/images/I/515VJ9WE0AL._AC_UF894,1000_QL80_.jpg","embed":"https://myembed.biz/filme/tt0313680"},
+  {"title":"Debi e Loide","id":"tt0109686","embed":"https://myembed.biz/filme/tt0109686","genre":"Comédia","image":"https://br.web.img3.acsta.net/c_310_420/pictures/210/542/21054207_20131030221640204.jpg"},
+  {"title":"Debi e Loide 2","id":"tt2096672","embed":"https://myembed.biz/filme/tt2096672","genre":"Comédia","image":"https://br.web.img3.acsta.net/c_310_420/pictures/14/10/23/13/15/276424.jpg"},
 
-{"title":"Tarzan 2: A Lenda Começa","id":"tt0437503","genre":"Animação, Aventura","image":"https://m.media-amazon.com/images/M/MV5BYmM0MzQzY2ItM2UxOC00ZmMwLWIwNTYtNDc5MGEzYmNjYWU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg","embed":"https://myembed.biz/filme/tt0437503"},
+  {"title":"Ratatouille","id":"tt0382932","embed":"https://myembed.biz/filme/tt0382932","genre":"Animação, Aventura","image":"https://static.wikia.nocookie.net/disney/images/c/c8/Ratatouille_poster.jpg"},
 
-{"title":"Tarzan: A Evolução da Lenda","id":"tt1705952","genre":"Aventura, Drama, Família","image":"https://br.web.img2.acsta.net/pictures/13/12/30/17/00/149548.jpg","embed":"https://myembed.biz/filme/tt1705952"},
+  {"title":"Batman","id":"tt1877830","embed":"https://myembed.biz/filme/tt1877830","genre":"Ação","image":"https://upload.wikimedia.org/wikipedia/pt/thumb/3/38/The_Batman_poster.jpg/250px-The_Batman_poster.jpg"},
+  {"title":"Batman: O Cavaleiro das Trevas","id":"tt0468569","embed":"https://myembed.biz/filme/tt0468569","genre":"Ação","image":"https://play-lh.googleusercontent.com/b0bqoD27ib25NwPutF8Kf740iiFQ53CKUz27VBQkCQtvSfhdWQtb8vwFxxn-SzI-5ZATXXkDwf2qPODkNQ"},
 
-{"title":"Meu Malvado Favorito","id":"tt1323594","genre":"Animação","image":"https://br.web.img3.acsta.net/medias/nmedia/18/87/89/83/20028679.jpg","embed":"https://myembed.biz/filme/tt1323594"},
+  {"title":"Os Vingadores","id":"tt0848228","embed":"https://myembed.biz/filme/tt0848228","genre":"Ação, Ficção científica","image":"https://upload.wikimedia.org/wikipedia/pt/thumb/6/69/The_Avengers_Cartaz.jpg/250px-The_Avengers_Cartaz.jpg"},
 
-{"title":"Meu Malvado Favorito 2","id":"tt1690953","genre":"Animação","image":"https://www.papodecinema.com.br/wp-content/uploads/2013/07/20190402-8d6c1fbc282eba39315e1cea6d1abd26.webp","embed":"https://myembed.biz/filme/tt1690953"},
+  {"title":"Maze Runner: Correr ou Morrer","id":"tt1790864","embed":"https://myembed.biz/filme/tt1790864","genre":"Ação, Aventura","image":"https://upload.wikimedia.org/wikipedia/pt/c/c7/Maze_runner.jpg"},
+  {"title":"Maze Runner: Prova de Fogo","id":"tt4046784","embed":"https://myembed.biz/filme/tt4046784","genre":"Ação, Aventura","image":"https://br.web.img3.acsta.net/pictures/16/01/18/18/50/596680.jpg"},
+  {"title":"Maze Runner: A Cura Mortal","id":"tt4500922","embed":"https://myembed.biz/filme/tt4500922","genre":"Ação, Aventura","image":"https://br.web.img3.acsta.net/pictures/17/12/01/14/42/5070907.jpg"},
 
-{"title":"Meu Malvado Favorito 3","id":"tt3469046","genre":"Animação","image":"https://br.web.img2.acsta.net/pictures/17/03/14/20/37/126690.jpg","embed":"https://myembed.biz/filme/tt3469046"},
+  {"title":"Gente Grande","id":"tt1375670","embed":"https://myembed.biz/filme/tt1375670","genre":"Comédia","image":"https://br.web.img3.acsta.net/c_310_420/pictures/210/299/21029996_20130821205722213.jpg"},
+  {"title":"Gente Grande 2","id":"tt2191701","embed":"https://myembed.biz/filme/tt2191701","genre":"Comédia","image":"https://upload.wikimedia.org/wikipedia/pt/d/d6/Grown_Ups.jpg"},
 
-{"title":"Meu Malvado Favorito 4","id":"tt7510222","genre":"Animação","image":"https://br.web.img3.acsta.net/img/6c/71/6c71afa89fd8ed8999b3e04d8d794a0e.jpg","embed":"https://myembed.biz/filme/tt7510222"},
+  {"title":"Guardiões da Galáxia","id":"tt2015381","embed":"https://myembed.biz/filme/tt2015381","genre":"Ação, Ficção científica","image":"https://br.web.img3.acsta.net/pictures/14/06/03/21/11/122582.jpg"},
 
-{"title":"Gigantes de Aço","id":"tt0433035","genre":"Ação, Drama","image":"https://play-lh.googleusercontent.com/N77PUO_MDFZ9Yc3pWPEklRn4Sy0MmeXu1Tge_B6qjMUoOBsdMDqSxNfcS7onkExyCrs","embed":"https://myembed.biz/filme/tt0433035"},
-
-{"title":"Karate Kid","id":"tt1155076","genre":"Ação, Drama","image":"https://upload.wikimedia.org/wikipedia/pt/thumb/0/00/The_Karate_Kid_2010.jpg/250px-The_Karate_Kid_2010.jpg","embed":"https://myembed.biz/filme/tt1155076"},
-
-{"title":"Rio","id":"tt1436562","genre":"Animação, Aventura","image":"https://static.wikia.nocookie.net/rio/images/6/66/Rio_Poster.jpg","embed":"https://myembed.biz/filme/tt1436562"},
-
-{"title":"Rio 2","id":"tt2357291","genre":"Animação, Aventura","image":"https://m.media-amazon.com/images/M/MV5BMTgzMDczMDYzNl5BMl5BanBnXkFtZTgwMzk2MDIwMTE@._V1_FMjpg_UX1000_.jpg","embed":"https://myembed.biz/filme/tt2357291"},
-
-{"title":"Ratatouille","id":"tt0382932","genre":"Animação, Aventura","image":"https://static.wikia.nocookie.net/disney/images/c/c8/Ratatouille_poster.jpg","embed":"https://myembed.biz/filme/tt0382932"},
-
-{"title":"Os Vingadores","id":"tt0848228","genre":"Ação, Ficção científica","image":"https://upload.wikimedia.org/wikipedia/pt/thumb/6/69/The_Avengers_Cartaz.jpg/250px-The_Avengers_Cartaz.jpg","embed":"https://myembed.biz/filme/tt0848228"},
-
-{"title":"Batman","id":"tt1877830","genre":"Ação","image":"https://upload.wikimedia.org/wikipedia/pt/thumb/3/38/The_Batman_poster.jpg/250px-The_Batman_poster.jpg","embed":"https://myembed.biz/filme/tt1877830"},
-
-{"title":"Batman: O Cavaleiro das Trevas","id":"tt0468569","genre":"Ação","image":"https://play-lh.googleusercontent.com/b0bqoD27ib25NwPutF8Kf740iiFQ53CKUz27VBQkCQtvSfhdWQtb8vwFxxn-SzI-5ZATXXkDwf2qPODkNQ","embed":"https://myembed.biz/filme/tt0468569"},
-
-{"title":"Batman vs Superman: A Origem da Justiça","id":"tt2975590","genre":"Ação","image":"https://br.web.img2.acsta.net/pictures/18/01/04/18/43/2155615.jpg","embed":"https://myembed.biz/filme/tt2975590"}
+  {"title":"Um Amor para Recordar","id":"tt0281358","embed":"https://myembed.biz/filme/tt0281358","genre":"Drama, Romance","image":"https://upload.wikimedia.org/wikipedia/pt/thumb/2/27/A_Walk_to_Remember_-_P%C3%B4ster.jpg/250px-A_Walk_to_Remember_-_P%C3%B4ster.jpg"},
+  {"title":"Como Eu Era Antes de Você","id":"tt2674426","embed":"https://myembed.biz/filme/tt2674426","genre":"Romance, Drama","image":"https://br.web.img3.acsta.net/c_310_420/pictures/16/02/03/19/11/303307.jpg"}
 ]
