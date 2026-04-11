@@ -200,7 +200,7 @@
   {
     "name": "Os Croods 2: Uma Nova Era",
     "link": "https://myembed.biz/filme/tt2850386",
-    "poster": "https://ingresso-a.akamaihd.net/prd/img/movie/os-croods-2-uma-nova-era/0a54d330-cb63-43b2-808c-d971b0d7db27.jpg"
+    "poster": "https://ingresso-a.akamaihd.net/prd/img/movie/os-croods-2-uma-nova-era/0a54d330-cb63-43b2-808c-d971b0d7db27.jpg",
     "category": "animação"
   },
   {
@@ -610,6 +610,12 @@
     "link": "https://myembed.biz/filme/tt4154796",
     "poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9b/Avengers_Endgame.jpg/250px-Avengers_Endgame.jpg",
     "category": "ação"
+  },
+  {
+    "name": "Moana",
+    "link": "https://myembed.biz/filme/tt27419466",
+    "poster": "https://www.imdb.com/pt/title/tt27419466/mediaviewer/rm1673778690/?ref_=tt_ov_i",
+    "category": "aventura"
   },
   {
     "name": "Superman",
