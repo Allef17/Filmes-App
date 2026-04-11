@@ -636,10 +636,64 @@
     "category": "animação"
   },
   {
+    "name": "Shrek",
+    "link": "https://myembed.biz/filme/tt0126029",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/e/e6/Shrek_Poster.jpg",
+    "category": "animação"
+  },
+  {
+    "name": "Shrek 2",
+    "link": "https://myembed.biz/filme/tt0298148",
+    "poster": "https://br.web.img2.acsta.net/medias/nmedia/18/97/04/22/20504502.jpg",
+    "category": "animação"
+  },
+  {
+    "name": "Shrek Terceiro",
+    "link": "https://myembed.biz/filme/tt0413267",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/c/c2/Shrek_the_Third_Poster.jpg",
+    "category": "animação"
+  },
+  {
+    "name": "Shrek Para Sempre",
+    "link": "https://myembed.biz/filme/tt0892791",
+    "poster": "https://br.web.img2.acsta.net/medias/nmedia/18/87/90/45/19962744.jpg",
+    "category": "animação"
+  },
+  {
+    "name": "O Susto de Shrek",
+    "link": "https://myembed.biz/filme/tt1725156",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDg0NDUwYjItMmRjYi00MzNjLTkyY2EtM2FiMjE1NWY4ZTY0XkEyXkFqcGc@._V1_.jpg",
+    "category": "animação"
+  },
+  {
+    "name": "Shrek no Natal",
+    "link": "https://myembed.biz/filme/tt0897387",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/b/b7/Shrek_the_Halls_poster.jpg",
+    "category": "animação"
+  },
+  {
     "name": "Avatar: Fogo e cinzas",
-    "link": "https://myembed.biz/filme/85fe2b679",
+    "link": "https://myembed.biz/filme/tt1757678",
     "poster": "https://br.web.img2.acsta.net/img/d0/a1/d0a178dfb53053c71b2e157e313386d1.jpg",
     "category": "ação"
+  },
+  {
+    "name": "Avatar",
+    "link": "https://myembed.biz/filme/tt0499549",
+    "poster": "https://www.imdb.com/pt/title/tt0499549/mediaviewer/rm3401480193/?ref_=tt_ov_i",
+    "category": "ação"
+  },
+  {
+    "name": "Avatar: O Caminho da Água",
+    "link": "https://myembed.biz/filme/tt1630029",
+    "poster": "https://m.media-amazon.com/images/I/71hGGgSVC1L._AC_UF894,1000_QL80_.jpg",
+    "category": "ação"
+  },
+  {
+    "name": "Ataque Brutal",
+    "link": "https://myembed.biz/filme/1290417",
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/349RbnEbWd38iLlqzELTUppjSt2.jpg",
+    "category": "terror, suspense"
   },
   {
     "name": "Superman",
